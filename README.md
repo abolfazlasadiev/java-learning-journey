@@ -1,150 +1,99 @@
-# 100 Beginner Java Projects 🚀
+# 🚀 100+ Beginner Java Projects
 
-This repository contains a structured collection of **100+ beginner to intermediate Java projects**, organized by topic.  
-The goal of this repository is to practice core Java concepts step-by-step, from basic syntax to real-world mini applications.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Level](https://img.shields.io/badge/Level-Beginner-blue?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-Learning-green?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-Practicing-purple?style=for-the-badge)
+
+---
+
+## 👤 About Me
+
+- **Name:** Abolfazl Asadi  
+- **GitHub:** abolfazlasadiev  
+- **Education:** Bachelor's degree in Computer Engineering  
+- **Focus:** Java Programming & Object-Oriented Programming (OOP)  
+- **Level:** Beginner  
+
+---
+
+## 🎯 Goal
+
+This repository is part of my journey to learn Java step-by-step — starting from basic syntax and logic to advanced object-oriented programming concepts and real-world problem solving.
 
 ---
 
 ## 📅 Start Date
+
 **May 14, 2026**
+
+---
+
+## 🛠️ Tech Stack
+
+- Java (Core)
+- Object-Oriented Programming (OOP)
+
+---
+
+## 🧠 Final Goal
+
+The final goal of this project is to:
+
+- Build a strong foundation in Java programming
+- Master Object-Oriented Programming concepts (Encapsulation, Inheritance, Polymorphism, Abstraction)
+- Improve problem-solving and algorithmic thinking
+- Become capable of building real-world Java applications
+- Prepare for internship and junior backend developer roles
+- Build a strong GitHub portfolio for job opportunities
 
 ---
 
 ## 📁 Project Structure
 
-Projects are organized into categories:
+This repository includes **100+ Java practice projects**, organized by topic:
 
-### 1. Basics & Console Programs
-Simple programs to understand Java syntax, input/output, and basic logic.
-- Hello World
-- Sum, Average, Comparison
-- Even/Odd, Factorial
-- Multiplication Table
-- Temperature Conversion
-
----
-
-### 2. Conditions & Loops
-Control flow practice using if-else, switch, and loops.
-- Prime Number Check
-- Guess Number Game
-- Star Patterns
-- Reverse Number
-- Largest of Three Numbers
+- Basics & Console Programs
+- Conditions & Loops
+- Arrays & Strings
+- Object-Oriented Programming
+- File Handling & Exceptions
+- Data Structures
+- Algorithms & Math Problems
+- Real-world Mini Projects
+- Resume-ready Projects
 
 ---
 
-### 3. Arrays
-Core array operations and algorithms.
-- Sorting (Bubble Sort)
-- Searching (Linear Search)
-- Min/Max
-- Reverse Array
-- Remove Duplicates
-- Variance & Standard Deviation
+## 📌 Learning Path
+
+I am currently progressing from:
+
+👉 Beginner → Intermediate → Advanced Java
 
 ---
 
-### 4. Strings
-String manipulation and logic problems.
-- Palindrome Check
-- Anagram Check
-- Vowel Count
-- Word Count
-- Reverse String
-- Character Operations
+## 📈 Progress
+
+- [x] Basics completed
+- [x] Conditions & loops in progress
+- [ ] OOP mastery
+- [ ] Advanced Java concepts
+- [ ] Real-world project building
 
 ---
 
-### 5. OOP Basics
-Object-Oriented Programming fundamentals.
-- Classes & Objects
-- Bank Account System
-- Student Management
-- Constructor Practice
-- Encapsulation Examples
+## 🌱 Note
 
----
-
-### 6. File I/O & Exceptions
-Working with files and exception handling.
-- Read/Write Files
-- File Copy
-- Exception Handling (Try/Catch)
-- CSV Processing
-- Logging
-
----
-
-### 7. Data Structures
-Basic implementations using Java Collections.
-- Stack & Queue
-- HashMap / HashSet usage
-- To-Do List App
-- Phone Book System
-- ArrayList operations
-
----
-
-### 8. Algorithms & Math
-Classic algorithmic problems.
-- Fibonacci Series
-- GCD / LCM
-- Prime Numbers Range
-- Armstrong Numbers
-- Square Root (Newton Method)
-- Base Conversion
-
----
-
-### 9. Real-World Mini Projects
-Small practical applications.
-- BMI Calculator
-- Age Calculator
-- Login System
-- Typing Speed Test
-- Grade Converter
-- Travel Cost Calculator
-
----
-
-### 10. Combined / Resume-Ready Projects 💼
-More advanced projects suitable for showcasing.
-- Library Management System
-- Currency Converter
-- Hangman Game
-- Caesar Cipher
-- Contact Manager (File Storage)
-- RPN Calculator
-- Simple Downloader
-
----
-
-## 🎯 Goals of This Repository
-- Strengthen Java fundamentals
-- Practice problem solving daily
-- Learn OOP and clean code structure
-- Build a strong GitHub portfolio
-- Prepare for internships and job interviews
-
----
-
-## 🛠️ Tech Stack
-- Java (Core)
-- Standard Java Libraries
-- File Handling APIs
-- Collections Framework
-
----
-
-## 📌 Notes
-This repository is continuously updated as I progress through new topics and challenges.
+This repository is continuously updated as I learn new concepts and improve my programming skills.
 
 ---
 
 ## 👤 Author
-Created and maintained by a Java learner building consistency through daily practice.
+
+**Abolfazl Asadi**  
+GitHub: [abolfazlasadiev](https://github.com/abolfazlasadiev)
 
 ---
 
-⭐ If you find this helpful, feel free to star the repository!
+⭐ If you like this repository, feel free to star it!
