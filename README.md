@@ -11,7 +11,19 @@ Beginner in Java programming
 
 ## Goal
 
-Learning Java step by step from basic to advanced level and building a strong portfolio for web development and software engineering.
+Learning beginner Java programming.
+
+---
+
+## Start
+
+This project started as a practice journey to learn Java from the basics step by step.
+
+---
+
+## Project Status
+
+The projects are not completed yet and are continuously in progress.
 
 ---
 
@@ -22,7 +34,7 @@ This repository contains 100 Java practice projects:
 ### Basics
 - Hello World
 - Sum of Two Numbers
-- Average of N Numbers
+- Average of Numbers
 - Celsius to Fahrenheit
 - Compare Two Numbers
 - Even or Odd
@@ -44,11 +56,11 @@ This repository contains 100 Java practice projects:
 ### Arrays
 - Bubble Sort
 - Linear Search
-- Find Min and Max
+- Min and Max in Array
 - Sum of Array
 - Remove Duplicates
 - Reverse Array
-- Merge Two Arrays
+- Merge Arrays
 
 ### Strings
 - Anagram Check
@@ -96,6 +108,8 @@ This repository contains 100 Java practice projects:
 
 ---
 
-## Note
+## Notes
 
-This repository is for learning and practice. It is updated regularly as I improve my skills.
+- Each project has its own README file inside its folder with full explanation.
+- This repository is for learning and practice.
+- Projects will be updated gradually as learning continues.
