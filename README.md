@@ -1,121 +1,121 @@
 # Java Learning Journey
 
 ## Category 01 - Basics Console
-- HelloWorld
+- Hello World
 - Greeting
-- SumTwoNumbers
-- CompareTwoNumbers
-- EvenOdd
-- CelsiusToFahrenheit
-- RectangleArea
-- AverageOfNNumbers
-- MultiplicationTable
-- FactorialLoop
+- Sum Two Numbers
+- Compare Two Numbers
+- Even Odd
+- Celsius To Fahrenheit
+- Rectangle Area
+- Average Of N Numbers
+- Multiplication Table
+- Factorial Loop
 
 ## Category 02 - Conditions & Loops
-- LargestOfThree
-- DayOfWeek
-- SimpleCalculatorSwitch
-- PrimeCheck
-- PrimeNumbersInRange
-- ReverseNumber
-- CountDigits
-- StarTriangle
-- StarDiamond
-- GuessNumberGame
+- Largest Of Three
+- Day Of Week
+- Simple Calculator (Switch)
+- Prime Check
+- Prime Numbers In Range
+- Reverse Number
+- Count Digits
+- Star Triangle
+- Star Diamond
+- Guess Number Game
 
 ## Category 03 - Arrays
-- SumOfArray
-- MinMaxArray
-- ReverseArray
-- LinearSearch
-- BubbleSort
-- CountOccurrence
-- MergeTwoArrays
-- RemoveDuplicates
-- PalindromeArray
-- VarianceStdDev
+- Sum Of Array
+- Min Max Array
+- Reverse Array
+- Linear Search
+- Bubble Sort
+- Count Occurrence
+- Merge Two Arrays
+- Remove Duplicates
+- Palindrome Array
+- Variance & Standard Deviation
 
 ## Category 04 - Strings
-- ReverseString
-- StringPalindrome
-- CountVowels
-- CountWords
-- SwapCase
-- TrimString
-- ReplaceSubstring
-- ExtractDate
-- MostFrequentChar
-- AnagramCheck
+- Reverse String
+- String Palindrome
+- Count Vowels
+- Count Words
+- Swap Case
+- Trim String
+- Replace Substring
+- Extract Date
+- Most Frequent Character
+- Anagram Check
 
 ## Category 05 - OOP Basics
-- StudentClass
-- BookClass
-- RectangleClass
-- BankAccount
-- CarStartStop
-- CounterWithMax
-- FractionAddition
-- PersonAgeFromBirthYear
-- StudentArrayAverage
-- TimeClassAddTime
+- Student Class
+- Book Class
+- Rectangle Class
+- Bank Account
+- Car Start / Stop
+- Counter With Max
+- Fraction Addition
+- Person Age From Birth Year
+- Student Array Average
+- Time Class Add Time
 
 ## Category 06 - File I/O & Exceptions
-- WriteToFile
-- ReadAndPrintFile
-- CheckFileExists
-- CountLinesInFile
-- SumNumbersFromFile
-- CopyFile
-- ReadCSVandAverage
-- DivideByZeroTryCatch
-- FileNotFoundExceptionHandling
-- SimpleLogWithDate
+- Write To File
+- Read And Print File
+- Check File Exists
+- Count Lines In File
+- Sum Numbers From File
+- Copy File
+- Read CSV And Average
+- Divide By Zero (Try-Catch)
+- File Not Found Exception Handling
+- Simple Log With Date
 
 ## Category 07 - Data Structures
-- StackWithArrayList
-- QueueWithArrayList
-- StudentManagerArrayList
-- PhoneBookHashMap
-- WordCountHashMap
-- RemoveDuplicatesHashSet
-- RotateArrayLeftRight
-- SortArrayListOfObjects
-- SimpleQueueSimulation
-- ToDoList
+- Stack With ArrayList
+- Queue With ArrayList
+- Student Manager (ArrayList)
+- Phone Book (HashMap)
+- Word Count (HashMap)
+- Remove Duplicates (HashSet)
+- Rotate Array Left / Right
+- Sort ArrayList Of Objects
+- Simple Queue Simulation
+- To-Do List
 
 ## Category 08 - Algorithms & Math
-- FibonacciSeries
-- GCD_Euclidean
+- Fibonacci Series
+- GCD (Euclidean Algorithm)
 - LCM
-- PowerWithoutMathPow
-- BaseConversion
-- PerfectNumberCheck
-- ArmstrongNumbersInRange
-- SumOfHarmonicSeries
-- PiLeibnizApprox
-- SqrtNewtonMethod
+- Power Without Math.pow()
+- Base Conversion
+- Perfect Number Check
+- Armstrong Numbers In Range
+- Sum Of Harmonic Series
+- Pi (Leibniz Approximation)
+- Square Root (Newton Method)
 
 ## Category 09 - Real World Small Projects
-- AgeCalculator
-- BMICalculator
-- NumericGradeToLetter
-- PasswordLoginAttempts
-- NumberToWordsSimple
-- TravelCostCalculator
-- ReadingTimeEstimator
-- TypingSpeedTester
-- CountdownTimerSleep
-- WeatherRandomPredictor
+- Age Calculator
+- BMI Calculator
+- Numeric Grade To Letter
+- Password Login Attempts
+- Number To Words
+- Travel Cost Calculator
+- Reading Time Estimator
+- Typing Speed Tester
+- Countdown Timer
+- Weather Random Predictor
 
 ## Category 10 - Combined Projects
-- CurrencyConverter
-- DiceRollSimulatorWithHistory
-- CaesarCipherEncryptDecrypt
-- RPNCalculator
-- ContactManagerFileStorage
-- StudentGradingSystem
-- HangmanGame
-- LibraryManagementSystem
-- SimpleDownloaderURL
-- BackupToolCopyFolder
+- Currency Converter
+- Dice Roll Simulator With History
+- Caesar Cipher Encrypt / Decrypt
+- RPN Calculator
+- Contact Manager (File Storage)
+- Student Grading System
+- Hangman Game
+- Library Management System
+- Simple Downloader (URL)
+- Backup Tool (Copy Folder)
