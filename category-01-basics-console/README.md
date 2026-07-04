@@ -4,13 +4,13 @@ A collection of beginner Java programming exercises.
 
 ## Projects
 
-- HelloWorld
+- Hello World
 - Greeting
-- SumTwoNumbers
-- CompareTwoNumbers
-- EvenOdd
-- CelsiusToFahrenheit
-- RectangleArea
-- AverageOfNNumbers
-- MultiplicationTable
-- FactorialLoop
+- Sum Two Numbers
+- Compare Two Numbers
+- Even Odd
+- Celsius To Fahrenheit
+- Rectangle Area
+- Average Of N Numbers
+- Multiplication Table
+- Factorial Loop
