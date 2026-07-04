@@ -1,77 +1,121 @@
 # Java Learning Journey
 
-A collection of Java exercises organized by topic, progressing from basic programming concepts to small real-world projects.
+## Category 01 - Basics Console
+- HelloWorld
+- Greeting
+- SumTwoNumbers
+- CompareTwoNumbers
+- EvenOdd
+- CelsiusToFahrenheit
+- RectangleArea
+- AverageOfNNumbers
+- MultiplicationTable
+- FactorialLoop
 
-## Categories
+## Category 02 - Conditions & Loops
+- LargestOfThree
+- DayOfWeek
+- SimpleCalculatorSwitch
+- PrimeCheck
+- PrimeNumbersInRange
+- ReverseNumber
+- CountDigits
+- StarTriangle
+- StarDiamond
+- GuessNumberGame
 
-### 1. Basics & Console
-- Basic syntax
-- Variables
-- Input & Output
-- Arithmetic operations
-- Loops
-- Conditions
+## Category 03 - Arrays
+- SumOfArray
+- MinMaxArray
+- ReverseArray
+- LinearSearch
+- BubbleSort
+- CountOccurrence
+- MergeTwoArrays
+- RemoveDuplicates
+- PalindromeArray
+- VarianceStdDev
 
-### 2. Conditions & Loops
-- if / else
-- switch
-- Nested loops
-- Number algorithms
-- Pattern printing
+## Category 04 - Strings
+- ReverseString
+- StringPalindrome
+- CountVowels
+- CountWords
+- SwapCase
+- TrimString
+- ReplaceSubstring
+- ExtractDate
+- MostFrequentChar
+- AnagramCheck
 
-### 3. Arrays
-- Array operations
-- Searching
-- Sorting
-- Statistics
-- Duplicate removal
+## Category 05 - OOP Basics
+- StudentClass
+- BookClass
+- RectangleClass
+- BankAccount
+- CarStartStop
+- CounterWithMax
+- FractionAddition
+- PersonAgeFromBirthYear
+- StudentArrayAverage
+- TimeClassAddTime
 
-### 4. Strings
-- String manipulation
-- Character processing
-- Palindrome
-- Anagram
-- Text parsing
+## Category 06 - File I/O & Exceptions
+- WriteToFile
+- ReadAndPrintFile
+- CheckFileExists
+- CountLinesInFile
+- SumNumbersFromFile
+- CopyFile
+- ReadCSVandAverage
+- DivideByZeroTryCatch
+- FileNotFoundExceptionHandling
+- SimpleLogWithDate
 
-### 5. OOP Basics
-- Classes
-- Objects
-- Constructors
-- Methods
-- Encapsulation
+## Category 07 - Data Structures
+- StackWithArrayList
+- QueueWithArrayList
+- StudentManagerArrayList
+- PhoneBookHashMap
+- WordCountHashMap
+- RemoveDuplicatesHashSet
+- RotateArrayLeftRight
+- SortArrayListOfObjects
+- SimpleQueueSimulation
+- ToDoList
 
-### 6. File I/O & Exceptions
-- Reading files
-- Writing files
-- Exception handling
-- Logging
-- CSV processing
+## Category 08 - Algorithms & Math
+- FibonacciSeries
+- GCD_Euclidean
+- LCM
+- PowerWithoutMathPow
+- BaseConversion
+- PerfectNumberCheck
+- ArmstrongNumbersInRange
+- SumOfHarmonicSeries
+- PiLeibnizApprox
+- SqrtNewtonMethod
 
-### 7. Data Structures
-- ArrayList
-- HashMap
-- HashSet
-- Queue
-- Stack
+## Category 09 - Real World Small Projects
+- AgeCalculator
+- BMICalculator
+- NumericGradeToLetter
+- PasswordLoginAttempts
+- NumberToWordsSimple
+- TravelCostCalculator
+- ReadingTimeEstimator
+- TypingSpeedTester
+- CountdownTimerSleep
+- WeatherRandomPredictor
 
-### 8. Algorithms & Math
-- Fibonacci
-- GCD & LCM
-- Number theory
-- Mathematical algorithms
-
-### 9. Real-World Small Projects
-- Calculator
-- BMI
-- Password validation
-- Age calculator
-- Typing speed tester
-
-### 10. Combined Projects
-- Contact Manager
-- Library Management System
-- Hangman Game
-- Currency Converter
-- Backup Tool
-- Student Grading System
-
+## Category 10 - Combined Projects
+- CurrencyConverter
+- DiceRollSimulatorWithHistory
+- CaesarCipherEncryptDecrypt
+- RPNCalculator
+- ContactManagerFileStorage
+- StudentGradingSystem
+- HangmanGame
+- LibraryManagementSystem
+- SimpleDownloaderURL
+- BackupToolCopyFolder
